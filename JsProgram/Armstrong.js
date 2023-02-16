@@ -34,6 +34,6 @@ for(let i=0;i<str.length;i++){
 }
 console.log("Reverse String = "+str2);
 
-// let dhruv = "Dhruv";
-// dhruv = 32;
-// console.log(" = "+dhruv);
+let dhruv = "Dhruv";
+dhruv = 32;
+console.log(" = "+dhruv);
